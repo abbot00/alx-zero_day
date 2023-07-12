@@ -1,2 +1,1 @@
-not empty
-updated from github 
+this repo contains activities/tasks from the alx se program 
